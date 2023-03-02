@@ -1,0 +1,37 @@
+p {
+	font-size:200%;
+	text-align:center;
+	font-family:Sans;
+}
+
+iframe {
+	border:none;
+}
+
+.blok {
+	margin:auto;
+	width:500px;
+	height:300px;
+}
+
+.center {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+ }
+
+.hes{
+  height: 10pxclear;
+  width: 100%;
+  background-color: powderblue;	
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+#box {
+  text-align: center;
+}
